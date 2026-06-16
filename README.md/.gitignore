@@ -1,0 +1,30 @@
+# 🎨 Color Palette Generator
+
+A beautiful, fully functional color palette generator built as a trial task for **Digital Heroes**.
+
+## ✨ Features
+
+- **7 Color Harmony Modes**: Random, Complementary, Analogous, Triadic, Split-Complementary, Tetradic, Monochromatic
+- **Lock Colors**: Keep your favorite colors while generating new palettes
+- **Save Palettes**: Persist your favorite palettes in localStorage
+- **Export Options**: JSON, CSS Variables, Tailwind Config
+- **Image Color Extraction**: Upload any image to extract dominant colors
+- **Dark/Light Mode**: Toggle between themes
+- **Keyboard Shortcut**: Press `Spacebar` to generate new palette
+- **Copy to Clipboard**: Click any color to copy its HEX code
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3 (Custom Properties, Grid, Flexbox, Animations)
+- Vanilla JavaScript (ES6+ Classes)
+- Canvas API for image processing
+
+## 👨‍💻 Developer
+
+**Tamanna Mallick**
+- Email: mallicktamanna702@gmail.com
+
+## 🔗 Links
+
+- [Built for Digital Heroes](https://digitalheroesco.com)
