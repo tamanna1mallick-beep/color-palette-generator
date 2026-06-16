@@ -1,5 +1,5 @@
 # .gitignore
-# Node modules (agar future mein use kare)
+# Node modules 
 node_modules/
 
 # OS files
